@@ -2,6 +2,12 @@
 
 17 small sketches in python, all in one window. Use the left and right arrow keys to go from one to the next. They all use brown, black and silver, and one typeface.
 
+| | |
+|---|---|
+| ![creature](screens/creature.png) | ![museum of one object](screens/museum-of-one-object.png) |
+| ![music visualiser](screens/music-visualiser.png) | ![smoke site](screens/smoke-site.png) |
+| ![vj set](screens/vj-set.png) | ![short film](screens/short-film.png) |
+
 ## run
 
 ```
