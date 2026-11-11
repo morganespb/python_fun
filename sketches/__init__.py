@@ -1,0 +1,20 @@
+# every sketch in order: (file, class). the arrow keys go through them in this order.
+SKETCHES = [
+    ("unseen_hand", "UnseenHand"),
+    ("smoke_site", "SmokeSite"),
+    ("product_launch", "ProductLaunch"),
+    ("museum", "Museum"),
+    ("creature", "Creature"),
+    ("weather_glass", "WeatherGlass"),
+    ("image_dissolve", "ImageDissolve"),
+    ("kinetic_type", "KineticType"),
+    ("variable_type", "VariableType"),
+    ("visualiser", "Visualiser"),
+    ("instrument", "Instrument"),
+    ("seine", "Seine"),
+    ("year_in_sound", "YearInSound"),
+    ("smoke_mirror", "SmokeMirror"),
+    ("vj_set", "VJSet"),
+    ("short_film", "ShortFilm"),
+    ("particle_pet", "ParticlePet"),
+]

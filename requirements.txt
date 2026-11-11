@@ -1,0 +1,5 @@
+pygame-ce>=2.5
+numpy>=1.26
+moderngl>=5.10        # sketch 4
+opencv-python>=4.9    # webcam: 0 and 13
+mediapipe>=0.10.14    # hand and body tracking
